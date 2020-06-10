@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Knockout Binding for charts",
   "main": "./src/knockout.chart.js",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
